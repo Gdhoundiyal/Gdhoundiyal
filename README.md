@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gdhoundiyal" alt="Gdhoundiyal" /></a> </p>
 
-- 🌱 I’m currently learning **Django and DSA**
+- 🌱 I’m currently learning **BackEnd Development with Node Js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
